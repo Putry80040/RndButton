@@ -8,8 +8,8 @@ import java.util.Random;
 class RndButton implements ActionListener {
     JFrame jtfMainFrame = new JFrame("RndButton");
     JButton jbnButton[] = new JButton[10];
-    JButton b = new JButton("­Ë°h");
-    JButton c = new JButton("²M°£");
+    JButton b = new JButton("BackSpace");
+    JButton c = new JButton("Clear");
     JTextArea d = new JTextArea("");
     public static void main(String[] args) {
         // TODO Auto-generated method stub
